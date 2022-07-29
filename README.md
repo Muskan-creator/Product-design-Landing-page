@@ -1,26 +1,35 @@
-# Assignment 1
+# Project 15 - Product-design-landing-page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+##  Created by `Muskan` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--15-lightgrey)
 
-![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
+> ### **Live deployed website link** :-[Netlify link](https://62e428633cff782b69fde0cd--product-design-landing-page.netlify.app/)
+<br>
+<span>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23404d59.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</span>
 
-## Project 15 [Live Link](https://live-proj-15.netlify.app)
+##  How website looks like
 
--   Skills Gained in this project
-    -   Learned to create background box for visual design.
-    -   Learned to use external fontawesome icon library
-    -   Gained indepth knowledge of flexbox.
+<img src="https://github.com/Muskan-creator/Product-design-Landing-page/blob/master/15.png" height="60%" width="50%">
 
----
+## What I have learned in this project?
 
-## Time taken to finish this project
+  - I have learned about managing one div into another
+  - I have learned about styling text 
+  - I have learned css flex properties
+  - Learnt transitioning properties and animation
 
--   Approximately 3 hour taken to complete this one.
+## This project took around 8 hours to complete .
 
-#### Screenshot
+## Connect with me on :-
+<a href="https://twitter.com/Muskan11548907?s=08" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-bansal-095601189/" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
+  </a>
 
-![Desktop](./screenshots/project-15.png)
