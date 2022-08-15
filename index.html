@@ -5,7 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Product Landing Page</title>
+       
         <link rel="stylesheet" href="css/style.css" />
+        <script src="https://kit.fontawesome.com/8897e030e3.js" crossorigin="anonymous"></script>
         <link
             rel="stylesheet"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
@@ -13,20 +15,26 @@
             crossorigin="anonymous"
             referrerpolicy="no-referrer"
         />
+       
     </head>
     <body>
         <div class="container">
             <nav class="navbar">
-                <div class="logo-container">
-                    <img src="./assets/logo.svg" alt="logo" />
-                </div>
+                <div class="logo-container"> <img src="./assets/logo.svg" alt="logo" /></div>
+                
                 <ul class="list">
-                    <li>Home</li>
-                    <li>Project</li>
-                    <li>About</li>
-                    <li>Contact</li>
-                    <li>Other Page</li>
+               
+                    <li class="navbar-toggler"><i class="fa-solid fa-bars"></i></li>
+                    <li class="list-items"><a href="#">Home</a></li>
+                    <li class="list-items"><a href="#">Project</a></li>
+                    <li class="list-items"><a href="#">About</a></li>
+                    <li class="list-items"><a href="#">Contact</a></li>
+                    <li class="list-items"><a href="#">Other Page</a></li>
+                   
                 </ul>
+               
+                
+           
             </nav>
 
             <!-- hero section -->
@@ -234,5 +242,6 @@
                 </div>
             </footer>
         </div>
+        <script src="script.js"></script>
     </body>
 </html>
