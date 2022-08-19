@@ -515,6 +515,12 @@ body {
     }
 }
 @media only screen and (max-width: 724px) {
+    .hero .box {
+   
+    width: 40rem;
+   
+    
+}
     .contact-section {
         padding: 0 10px;
     }
